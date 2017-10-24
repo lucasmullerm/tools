@@ -4,10 +4,17 @@ sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable
 # grub customizer
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer
 
-sudo apt-get update
+sudo apt update
 
-sudo apt-get install google-chrome-stable -y
+sudo apt install google-chrome-stable -y
 
-sudo apt-get install git -y
+sudo apt install git -y
 
-sudo apt-get install grub-customizer -y
+sudo apt install grub-customizer -y
+
+sudo apt install python3 -y
+sudo apt install python3-pip -y
+sudo apt install ipython3 -y
+
+sudo apt install python-pip -ycd 
+sudo apt install ipython -y
