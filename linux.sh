@@ -35,4 +35,6 @@ sudo apt install ipython -y
 
 sudo apt install texlive -y
 
+sudo apt install latexmk -y
+
 sudo apt install xclip -y
