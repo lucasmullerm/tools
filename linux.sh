@@ -33,7 +33,7 @@ sudo apt install ipython3 -y
 sudo apt install python-pip -ycd 
 sudo apt install ipython -y
 
-sudo apt install texlive -y
+sudo apt install texlive-full -y
 
 sudo apt install latexmk -y
 
