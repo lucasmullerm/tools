@@ -28,7 +28,13 @@ sudo apt install openjdk-8-jre-headless -y
 
 sudo apt install python3 -y
 sudo apt install python3-pip -y
+sudo pip3 install --upgrade pip
 sudo apt install ipython3 -y
+sudo pip3 install pylint
+sudo pip3 install rope
+sudo pip3 install --upgrade ipykernel
+sudo apt install jupyter -y
+sudo apt install jupyter-notebook -y
 
 sudo apt install python-pip -ycd 
 sudo apt install ipython -y
