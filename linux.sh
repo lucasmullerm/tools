@@ -24,6 +24,7 @@ sudo ln -s `which nodejs` /usr/local/bin/node
 
 sudo apt install npm -y
 
+sudo apt installopenjdk-8-jdk-headless -y
 sudo apt install openjdk-8-jre-headless -y
 
 sudo apt install python3 -y
